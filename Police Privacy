@@ -1,0 +1,89 @@
+Privacy Policy & Terms of Service for Mita Bot
+Last Updated: [Date]
+
+1. Introduction
+Mita Bot ("the Bot," "We," "Our") is an AI-powered Discord assistant that uses Google Gemini API to generate responses.
+
+This Privacy Policy and Terms of Service govern your interaction with the Bot. By using Mita, you agree to these terms.
+
+2. Data Collection & Usage
+2.1. What Data Do We Process?
+User Messages:
+
+Questions sent via /ask are forwarded to Google Gemini for response generation.
+
+We do not permanently store full conversation logs.
+
+Discord Data:
+
+User ID, username, and avatar (used for personalizing responses in embeds).
+
+Server (guild) ID (required for bot functionality).
+
+Error Logs:
+
+Temporary technical logs (e.g., API errors) may be stored for debugging.
+
+2.2. How Is Data Used?
+To operate the Bot (generating responses via Gemini API).
+
+For quality improvement (anonymous analytics).
+
+For moderation (preventing abuse).
+
+2.3. Third-Party Data Sharing
+Google Gemini API – Receives queries to generate responses (subject to Google’s Privacy Policy).
+
+Discord – Standard platform data (user IDs, server info) for bot operations.
+
+We do not sell or share data with advertisers.
+
+3. Data Storage & Security
+3.1. Where Is Data Stored?
+Temporary logs (errors) are retained for up to 7 days.
+
+Discord metadata (IDs, usernames) is not separately stored.
+
+Google Gemini may retain queries per its policies.
+
+3.2. Security Measures
+All API calls use HTTPS encryption.
+
+The Bot cannot access messages outside of its commands.
+
+No payment data is collected or stored.
+
+4. Terms of Service (ToS)
+4.1. Usage Rules
+Prohibited Actions:
+
+Generating illegal, harmful, or NSFW content.
+
+Spamming commands (e.g., /ask abuse).
+
+Circumventing Discord’s policies (e.g., ban evasion).
+
+We Reserve the Right To:
+
+Block access for violations.
+
+Modify features without notice.
+
+4.2. Liability Limitations
+Responses are provided "as is" – no guarantees of accuracy.
+
+We are not liable for user actions taken via the Bot.
+
+Discord’s own Terms of Service still apply.
+
+5. Policy Updates
+We may update this policy. The latest version will always be posted here.
+
+Continued use of the Bot implies acceptance of changes.
+
+6. Contact Information
+For privacy concerns:
+📧 Email: sinakovvorobej@gmail.com
+🔗 Discord Server: https://discord.gg/bYK5NVx4
+
+Thank you for using Mita! 🤖✨
