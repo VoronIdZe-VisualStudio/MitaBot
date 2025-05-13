@@ -1,0 +1,9 @@
+{
+    "bot_token": "YOUR_TOKEN_BOT",
+    "gemini_key": "API_KEY_GEMINI",
+    "twitch_client_id": "YOUR_CLIENT_ID",
+    "twitch_client_secret": "YOUR_CLIENT_SECRET",
+    "guild_id": YOUR_GUILD_ID,
+    "updates_channel_id": YOUR_GUILD_ID_CHANNEL,
+    "update_check_interval_hours": 6
+}
